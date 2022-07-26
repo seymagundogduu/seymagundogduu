@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me **seymaagundogduuu@gmail.com**
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter, Dart
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
